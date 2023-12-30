@@ -57,6 +57,9 @@ main {
 .card-description > h2 {
   font-weight: 800;
 }
+.card-description > h2:hover {
+  color: var(--yellow);
+}
 .card-description > p {
   color: var(--grey);
 }
